@@ -1,7 +1,7 @@
 # TreeBASEMirror
 
 This repo contains DNA MSAs from [TreeBASE](https://www.treebase.org/treebase-web/home.html) which we downloaded for our experiments, 
-and the best trees we found after 100 [RAxML-NG](https://github.com/amkozlov/raxml-ng) tree searches under the "GTR+G" model for most MSAs (with their respective inferred 
+and - for most MSAs - the best trees we found after 100 [RAxML-NG](https://github.com/amkozlov/raxml-ng) tree searches under the "GTR+G" model (with their respective inferred 
 model parameters). We substituted the original taxon names since some of them were quite creative and made the parsers in the software we had to use
 for our experiments cry. 
 
