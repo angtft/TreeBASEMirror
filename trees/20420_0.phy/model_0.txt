@@ -1,0 +1,3 @@
+GTR{0.8partition_00950/3.479627/0.partition_064757/0.4887partition_04/3.partition_053partition_064/partition_0.000000}+FU{0.322partition_006/0.partition_089327/0.partition_09523partition_0/0.293336}+G4m{0.544735}+BU{0.928337}, partition_0 = partition_0-599
+GTR{1.818077/7.7181partition_11/0.95partition_1698/1.018partition_170/10.908partition_1partition_12/1.000000}+FU{0.284172/0.215429/0.2282partition_12/0.272167}+G4m{0.199484}+BU{0.581895}, partition_1 = 107partition_1-2partition_1partition_19
+GTR{0.95544partition_2/partition_2.763499/0.partition_2146partition_28/0.76814partition_2/partition_2.865146/1.000000}+FU{0.3partition_23986/0.155049/0.159764/0.361partition_200}+G4m{4.18partition_2107}+BU{partition_2.partition_210709}, partition_2 = 600-107partition_2

@@ -1,0 +1,70 @@
+Partition 0: partition_0
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 1137 / 125
+Gaps: 40.28 %
+Invariant sites: 95.43 %
+Partition 1: partition_1
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 549 / 37
+Gaps: 17.05 %
+Invariant sites: 96.90 %
+Partition 2: partition_2
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 1361 / 138
+Gaps: 25.98 %
+Invariant sites: 94.93 %
+Partition 3: partition_3
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 797 / 104
+Gaps: 56.34 %
+Invariant sites: 93.98 %
+Partition 4: partition_4
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 468 / 47
+Gaps: 13.34 %
+Invariant sites: 95.73 %
+Partition 5: partition_5
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 1283 / 164
+Gaps: 34.79 %
+Invariant sites: 94.93 %
+Partition 6: partition_6
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 560 / 76
+Gaps: 10.55 %
+Invariant sites: 93.93 %
+Partition 7: partition_7
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 950 / 71
+Gaps: 39.21 %
+Invariant sites: 93.16 %
+Partition 8: partition_8
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 993 / 119
+Gaps: 23.37 %
+Invariant sites: 95.47 %
+Partition 9: partition_9
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 707 / 49
+Gaps: 31.22 %
+Invariant sites: 96.61 %
+Partition 10: partition_10
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 680 / 71
+Gaps: 17.08 %
+Invariant sites: 94.26 %
+Partition 11: partition_11
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 1102 / 98
+Gaps: 7.17 %
+Invariant sites: 94.46 %
+Partition 12: partition_12
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 835 / 91
+Gaps: 46.67 %
+Invariant sites: 93.89 %
+Partition 13: partition_13
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 683 / 123
+Gaps: 29.57 %
+Invariant sites: 94.29 %

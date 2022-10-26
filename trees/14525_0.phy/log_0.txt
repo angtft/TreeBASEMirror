@@ -1,0 +1,15 @@
+Partition 0: partition_0
+Model: LG+G4m+B
+Alignment sites / patterns: 1319 / 585
+Gaps: 0.00 %
+Invariant sites: 55.57 %
+Partition 1: partition_1
+Model: LG+G4m+B
+Alignment sites / patterns: 611 / 373
+Gaps: 0.00 %
+Invariant sites: 41.73 %
+Partition 2: partition_2
+Model: LG+G4m+B
+Alignment sites / patterns: 974 / 411
+Gaps: 0.00 %
+Invariant sites: 58.21 %

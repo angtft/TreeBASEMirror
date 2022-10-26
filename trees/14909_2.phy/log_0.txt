@@ -1,0 +1,255 @@
+Partition 0: partition_0
+Model: LG+G4m+B
+Alignment sites / patterns: 519 / 413
+Gaps: 63.61 %
+Invariant sites: 30.83 %
+Partition 1: partition_1
+Model: LG+G4m+B
+Alignment sites / patterns: 492 / 458
+Gaps: 42.04 %
+Invariant sites: 18.29 %
+Partition 2: partition_2
+Model: LG+G4m+B
+Alignment sites / patterns: 174 / 171
+Gaps: 53.61 %
+Invariant sites: 7.47 %
+Partition 3: partition_3
+Model: LG+G4m+B
+Alignment sites / patterns: 400 / 340
+Gaps: 61.91 %
+Invariant sites: 26.75 %
+Partition 4: partition_4
+Model: LG+G4m+B
+Alignment sites / patterns: 282 / 198
+Gaps: 79.73 %
+Invariant sites: 46.81 %
+Partition 5: partition_5
+Model: LG+G4m+B
+Alignment sites / patterns: 958 / 313
+Gaps: 80.50 %
+Invariant sites: 70.35 %
+Partition 6: partition_6
+Model: LG+G4m+B
+Alignment sites / patterns: 236 / 232
+Gaps: 53.54 %
+Invariant sites: 8.90 %
+Partition 7: partition_7
+Model: LG+G4m+B
+Alignment sites / patterns: 671 / 452
+Gaps: 58.78 %
+Invariant sites: 42.03 %
+Partition 8: partition_8
+Model: LG+G4m+B
+Alignment sites / patterns: 409 / 378
+Gaps: 49.25 %
+Invariant sites: 21.76 %
+Partition 9: partition_9
+Model: LG+G4m+B
+Alignment sites / patterns: 412 / 362
+Gaps: 35.98 %
+Invariant sites: 25.00 %
+Partition 10: partition_10
+Model: LG+G4m+B
+Alignment sites / patterns: 529 / 466
+Gaps: 48.14 %
+Invariant sites: 25.33 %
+Partition 11: partition_11
+Model: LG+G4m+B
+Alignment sites / patterns: 236 / 220
+Gaps: 51.78 %
+Invariant sites: 20.76 %
+Partition 12: partition_12
+Model: LG+G4m+B
+Alignment sites / patterns: 361 / 291
+Gaps: 55.73 %
+Invariant sites: 32.96 %
+Partition 13: partition_13
+Model: LG+G4m+B
+Alignment sites / patterns: 114 / 99
+Gaps: 67.23 %
+Invariant sites: 35.96 %
+Partition 14: partition_14
+Model: LG+G4m+B
+Alignment sites / patterns: 559 / 456
+Gaps: 53.47 %
+Invariant sites: 27.37 %
+Partition 15: partition_15
+Model: LG+G4m+B
+Alignment sites / patterns: 839 / 560
+Gaps: 65.93 %
+Invariant sites: 45.29 %
+Partition 16: partition_16
+Model: LG+G4m+B
+Alignment sites / patterns: 416 / 389
+Gaps: 48.23 %
+Invariant sites: 15.87 %
+Partition 17: partition_17
+Model: LG+G4m+B
+Alignment sites / patterns: 885 / 710
+Gaps: 64.65 %
+Invariant sites: 30.06 %
+Partition 18: partition_18
+Model: LG+G4m+B
+Alignment sites / patterns: 1264 / 533
+Gaps: 78.67 %
+Invariant sites: 61.63 %
+Partition 19: partition_19
+Model: LG+G4m+B
+Alignment sites / patterns: 605 / 493
+Gaps: 62.02 %
+Invariant sites: 33.88 %
+Partition 20: partition_20
+Model: LG+G4m+B
+Alignment sites / patterns: 552 / 254
+Gaps: 73.44 %
+Invariant sites: 63.22 %
+Partition 21: partition_21
+Model: LG+G4m+B
+Alignment sites / patterns: 229 / 223
+Gaps: 21.97 %
+Invariant sites: 10.92 %
+Partition 22: partition_22
+Model: LG+G4m+B
+Alignment sites / patterns: 204 / 179
+Gaps: 63.94 %
+Invariant sites: 25.00 %
+Partition 23: partition_23
+Model: LG+G4m+B
+Alignment sites / patterns: 199 / 180
+Gaps: 59.16 %
+Invariant sites: 25.13 %
+Partition 24: partition_24
+Model: LG+G4m+B
+Alignment sites / patterns: 351 / 252
+Gaps: 64.49 %
+Invariant sites: 43.02 %
+Partition 25: partition_25
+Model: LG+G4m+B
+Alignment sites / patterns: 848 / 630
+Gaps: 73.57 %
+Invariant sites: 38.33 %
+Partition 26: partition_26
+Model: LG+G4m+B
+Alignment sites / patterns: 463 / 320
+Gaps: 59.82 %
+Invariant sites: 40.17 %
+Partition 27: partition_27
+Model: LG+G4m+B
+Alignment sites / patterns: 638 / 551
+Gaps: 54.12 %
+Invariant sites: 23.51 %
+Partition 28: partition_28
+Model: LG+G4m+B
+Alignment sites / patterns: 287 / 218
+Gaps: 91.02 %
+Invariant sites: 39.02 %
+Partition 29: partition_29
+Model: LG+G4m+B
+Alignment sites / patterns: 1252 / 263
+Gaps: 89.24 %
+Invariant sites: 82.75 %
+Partition 30: partition_30
+Model: LG+G4m+B
+Alignment sites / patterns: 672 / 594
+Gaps: 50.87 %
+Invariant sites: 22.02 %
+Partition 31: partition_31
+Model: LG+G4m+B
+Alignment sites / patterns: 547 / 288
+Gaps: 70.61 %
+Invariant sites: 55.03 %
+Partition 32: partition_32
+Model: LG+G4m+B
+Alignment sites / patterns: 539 / 246
+Gaps: 82.81 %
+Invariant sites: 64.56 %
+Partition 33: partition_33
+Model: LG+G4m+B
+Alignment sites / patterns: 325 / 311
+Gaps: 36.32 %
+Invariant sites: 17.54 %
+Partition 34: partition_34
+Model: LG+G4m+B
+Alignment sites / patterns: 348 / 335
+Gaps: 55.78 %
+Invariant sites: 12.36 %
+Partition 35: partition_35
+Model: LG+G4m+B
+Alignment sites / patterns: 391 / 375
+Gaps: 38.75 %
+Invariant sites: 12.02 %
+Partition 36: partition_36
+Model: LG+G4m+B
+Alignment sites / patterns: 415 / 248
+Gaps: 55.46 %
+Invariant sites: 50.60 %
+Partition 37: partition_37
+Model: LG+G4m+B
+Alignment sites / patterns: 316 / 289
+Gaps: 58.13 %
+Invariant sites: 23.10 %
+Partition 38: partition_38
+Model: LG+G4m+B
+Alignment sites / patterns: 471 / 385
+Gaps: 61.22 %
+Invariant sites: 27.18 %
+Partition 39: partition_39
+Model: LG+G4m+B
+Alignment sites / patterns: 496 / 446
+Gaps: 53.49 %
+Invariant sites: 20.16 %
+Partition 40: partition_40
+Model: LG+G4m+B
+Alignment sites / patterns: 312 / 230
+Gaps: 62.95 %
+Invariant sites: 43.27 %
+Partition 41: partition_41
+Model: LG+G4m+B
+Alignment sites / patterns: 1225 / 462
+Gaps: 74.37 %
+Invariant sites: 66.45 %
+Partition 42: partition_42
+Model: LG+G4m+B
+Alignment sites / patterns: 667 / 484
+Gaps: 50.37 %
+Invariant sites: 35.53 %
+Partition 43: partition_43
+Model: LG+G4m+B
+Alignment sites / patterns: 219 / 119
+Gaps: 92.77 %
+Invariant sites: 42.92 %
+Partition 44: partition_44
+Model: LG+G4m+B
+Alignment sites / patterns: 357 / 334
+Gaps: 86.92 %
+Invariant sites: 14.85 %
+Partition 45: partition_45
+Model: LG+G4m+B
+Alignment sites / patterns: 433 / 253
+Gaps: 60.89 %
+Invariant sites: 56.12 %
+Partition 46: partition_46
+Model: LG+G4m+B
+Alignment sites / patterns: 192 / 167
+Gaps: 72.75 %
+Invariant sites: 26.56 %
+Partition 47: partition_47
+Model: LG+G4m+B
+Alignment sites / patterns: 370 / 290
+Gaps: 53.79 %
+Invariant sites: 36.22 %
+Partition 48: partition_48
+Model: LG+G4m+B
+Alignment sites / patterns: 437 / 389
+Gaps: 60.70 %
+Invariant sites: 21.97 %
+Partition 49: partition_49
+Model: LG+G4m+B
+Alignment sites / patterns: 851 / 364
+Gaps: 79.89 %
+Invariant sites: 65.10 %
+Partition 50: partition_50
+Model: LG+G4m+B
+Alignment sites / patterns: 400 / 325
+Gaps: 66.92 %
+Invariant sites: 33.00 %

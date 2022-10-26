@@ -1,0 +1,10 @@
+Partition 0: partition_0
+Model: GTR+FO+G4m
+Alignment sites / patterns: 461340 / 6166
+Gaps: 0.00 %
+Invariant sites: 77.26 %
+Optimized model parameters:
+Partition 0: partition_0
+Rate heterogeneity: GAMMA (4 cats, mean),  alpha: 0.466847 (ML),  weights&rates: (0.250000,0.027420) (0.250000,0.229723) (0.250000,0.794562) (0.250000,2.948295)
+Base frequencies (ML): 0.275513 0.273243 0.171209 0.280035
+Substitution rates (ML): 0.767675 2.908951 0.782132 0.875557 2.013095 1.000000

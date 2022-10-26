@@ -1,0 +1,10 @@
+Partition 0: partition_0
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 666 / 319
+Gaps: 12.67 %
+Invariant sites: 52.55 %
+Partition 1: partition_1
+Model: GTR+FO+G4m+B
+Alignment sites / patterns: 584 / 213
+Gaps: 6.68 %
+Invariant sites: 70.38 %
