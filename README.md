@@ -5,7 +5,7 @@ and the best trees we found after 100 [RAxML-NG](https://github.com/amkozlov/rax
 model parameters). We substituted the original taxon names since some of them were quite creative and made the parsers in the software we had to use
 for our experiments cry. 
 
-There is also a [SQLite](https://www.sqlite.org/index.html) database that can be used with our [example scripts](https://github.com/angtft/RAxMLGroveScripts) for easier lookup (and simulation based on the inferred trees) of MSAs.
+There is also a [SQLite](https://www.sqlite.org/index.html) database with our example scripts [here](https://github.com/angtft/RAxMLGroveScripts), that can be used for easier lookup of MSAs.
 
 
 ## References
