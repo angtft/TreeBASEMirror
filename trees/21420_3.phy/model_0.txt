@@ -1,0 +1,1 @@
+LG, partition_0 = 1-1239
