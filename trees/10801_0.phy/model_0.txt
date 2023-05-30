@@ -1,3 +1,1 @@
-LG+G4m{1.290019}+BU{1.023053}, partition_0 = 180-472
-LG+G4m{1.449505}+BU{0.498456}, partition_1 = 473-773
-LG+G4m{1.628586}+BU{1.805644}, partition_2 = 1-179
+LG, partition_0 = 1-773
